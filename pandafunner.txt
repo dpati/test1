@@ -1,0 +1,107 @@
+﻿pagination {font-size: 40px; text-align:center} 
+body{font-family: Garamond;}	
+h1{text-align: center}
+h3{text-align: center}
+.Red{display: inline; align: center}
+
+</style>
+
+<h1>Panda Fun</h1>
+
+<h2 align:left>Facts and Fun about these great species!</h2>
+
+<img src="panda.gif" alt="gif" style="width:190px;height:230px;" hspace="40">
+
+<h3><u>Great Pandas</u></h3>
+<div class="Great">
+<h4 align="left"><u>Fun Facts</u></h4>
+<ul align="left">
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<hr>
+
+<div class="Red">
+<section>
+<header>
+<h3><u>Red Pandas</u></h3>
+<h4><u>Fun Facts</u></h4>
+</header>
+
+<ul style="float:left;">
+<li>Red Pandas can</li>
+<li>There are more than</li>
+<li>Eating food is</li>
+</ul>
+
+<p align="center">
+Red Pandas belong to the class...
+</p>
+
+<p>
+<img src="redpanda.jpg" alt="red" align="right" style="width:190px;height:230px;" hspace="40">
+</p>
+
+</section>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div id="videos">
+<h3><font size="5">Cuteness Overload</font></h3>
+
+
+
+<p align="center">
+<iframe width="530" height="285" src="https://www.youtube.com/embed/vjS-eMYWOog" frameborder="0" allowfullscreen>
+</iframe>
+
+
+<iframe width="530" height="285" src="https://www.youtube.com/embed/KRskc3SlKrE" frameborder="0" allowfullscreen>
+</iframe>
+</p>
+</div>
+
+<h3>How Can we Help?</h3>
+
+<ul style="list-style-type:none">
+<li><a href="https://www.worldwildlife.org/species/giant-panda">World Wildlife Fund</a></li>
+<li float:right><a href="https://www.pandasinternational.org">Pandas International</a></li>
+</ul>
+
+
+<article>
+<h2><u>Interested in Conservation Efforts?</u></h2>
+<p>Learn more about pandas and what conservationists are doing around the world to help protect our furry friends by visiting these pages:
+<ul style="list-style-type:none" align="center">
+<li style="display:inline"><a href="https://www.worldwildlife.org/species/giant-panda">World Wildlife Fund</a></li>
+<li style="display:inline"><a href="https://www.pandasinternational.org">Pandas International</a></li>
+</ul>
+</p>
+</article>
+
+<div class="pagination">
+  <a href="index.htm">1</a>
+  <a href="ideas.htm">2</a>
+  <a href="pandafun.htm">3</a>
+</div>

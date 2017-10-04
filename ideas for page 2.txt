@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Ideas for Michigan Daily website improvement</h1>
+<p>Drop down menus
+Today and yesterday's Issue Page
+Scrolling twitter or facebook feed. 
+</p>
+
+</body>
+</html> 
+
+
+
+
